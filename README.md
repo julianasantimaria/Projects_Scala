@@ -27,7 +27,7 @@ Project5 -
 
 ## Scala Programming Language
 
- <img width="2500px" align="right"  src="https://github.com/julianasantimaria/ProjectsTerraform/blob/HTML/IaC.jpeg">
+ <img width="2500px" align="right"  src="https://github.com/julianasantimaria/Projects_Scala/blob/HTML/imageScala.jpg">
 
  <br/>
  <br/>
