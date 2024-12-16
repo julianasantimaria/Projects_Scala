@@ -1,6 +1,6 @@
 # Scala Projects
 
-This repository contains various scripts for labs and projects in Scala..
+This repository contains various scripts for labs and projects in Scala.
 
 ## Overview
 
